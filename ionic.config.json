@@ -1,0 +1,7 @@
+{
+  "name": "ionicTestTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
