@@ -1,0 +1,8 @@
+.rounded {
+  --border-radius: 25px 25px;
+  --border-width: 1px;
+}
+
+.submit {
+  --border-radius: 25px 25px;
+}
